@@ -1,0 +1,23 @@
+/**
+* custom.css file created by Eximium Template
+* @package Eximium Template
+* @author Youjoomla.com
+* @website Youjoomla.com 
+* @copyright	Copyright (c) since 2007 Youjoomla.com.
+* @license PHP files are released under GNU/GPL V2 Copyleft License.CSS / LESS / JS / IMAGES are Copyrighted material
+**/
+/*
+ ADD ALL YOUR CUSTOM CSS OVERRIDES TO THIS FILE.
+ THIS WAY IF YOU MAKE A MISTAKE YOU CAN ALWAYS TURN CUSTOM CSS FILE OFF
+ AND REVERT BACK TO ORIGINAL TEMPLATE CSS
+ THIS FILE WILL LOAD VERY LAST AFTER ALL TEMPLATE CSS FILES.
+ SO YOU CAN OVERRIDE ANY CSS PART OF THE TEMPLATE YOU NEED.
+*/
+
+.footer_out {
+	padding:5px 0;
+}
+
+.yjsg_grid {
+	padding:30px 0;
+}
